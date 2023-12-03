@@ -9,4 +9,4 @@ Collaborated with stallholders to understand their requirements and translated t
 Ardently involved in creating data model, implemented data transformations and calculations using DAX for accurate analysis and reporting.
 
 PBIX LINK: https://drive.google.com/file/d/1AQJsuEpS_uu5F1vWhNYDVIrjj0ZzRYSa/view?usp=sharing
-PDF FILE: https://drive.google.com/file/d/1gR-r-ocMuKxBxaTWn7W0xIESD9G2M6v2/view?usp=sharing
+PDF FILE:https://drive.google.com/file/d/1ARR7ufd9i3FI0o_RvaE8968phGAaRkW-/view?usp=sharing
